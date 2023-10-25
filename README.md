@@ -3,7 +3,6 @@ A linked list is a linear data structure that includes a series of connected nod
 
 
 # **AIM**
-
 Linked-List
 
 ## **THEORY**
